@@ -12,7 +12,7 @@ const routes = [
   { path: "/home", component: HomeC },
   { path: "/services", component: ServicesC },
   { path: "/contact", component: ContactC },
-  {path:'/faq', component:FaqC}
+  { path:'/faq', component:FaqC }
 ];
 
 // instance of the router

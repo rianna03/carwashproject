@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
-        <router-link class="navbar-brand" to="/home">ClassApp</router-link>
+        <router-link class="navbar-brand" to="/home">Baywash</router-link>
         <button
           class="navbar-toggler"
           type="button"
@@ -75,9 +75,6 @@
   </div>
 </footer>
 
-<!-- Add Bootstrap and FontAwesome CDN -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
 
 </template>
